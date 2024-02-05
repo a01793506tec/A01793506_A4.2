@@ -1,0 +1,81 @@
+ABC no es numérico
+ERR no es numérico
+VAL no es numérico
+El binario del elemento 39 es:100111
+la base hexadecimal del elemento 39 es:27
+El binario del elemento 36 es:100100
+la base hexadecimal del elemento 36 es:24
+El binario del elemento 8 es:1000
+la base hexadecimal del elemento 8 es:8
+El binario del elemento 34 es:100010
+la base hexadecimal del elemento 34 es:22
+El binario del elemento 17 es:10001
+la base hexadecimal del elemento 17 es:11
+El binario del elemento 49 es:110001
+la base hexadecimal del elemento 49 es:31
+El binario del elemento 5 es:101
+la base hexadecimal del elemento 5 es:5
+El binario del elemento 0 es:0
+la base hexadecimal del elemento 0 es:0
+El binario del elemento 33 es:100001
+la base hexadecimal del elemento 33 es:21
+El binario del elemento 12 es:1100
+la base hexadecimal del elemento 12 es:C
+El binario del elemento 6 es:110
+la base hexadecimal del elemento 6 es:6
+El binario del elemento 27 es:11011
+la base hexadecimal del elemento 27 es:1B
+El binario del elemento 4 es:100
+la base hexadecimal del elemento 4 es:4
+El binario del elemento 38 es:100110
+la base hexadecimal del elemento 38 es:26
+El binario del elemento 26 es:11010
+la base hexadecimal del elemento 26 es:1A
+El binario del elemento 49 es:110001
+la base hexadecimal del elemento 49 es:31
+El binario del elemento 29 es:11101
+la base hexadecimal del elemento 29 es:1D
+El binario del elemento 42 es:101010
+la base hexadecimal del elemento 42 es:2A
+El binario del elemento 16 es:10000
+la base hexadecimal del elemento 16 es:10
+El binario del elemento 34 es:100010
+la base hexadecimal del elemento 34 es:22
+El binario del elemento 20 es:10100
+la base hexadecimal del elemento 20 es:14
+El binario del elemento 0 es:0
+la base hexadecimal del elemento 0 es:0
+El binario del elemento 25 es:11001
+la base hexadecimal del elemento 25 es:19
+El binario del elemento 45 es:101101
+la base hexadecimal del elemento 45 es:2D
+El binario del elemento 3 es:11
+la base hexadecimal del elemento 3 es:3
+El binario del elemento 46 es:101110
+la base hexadecimal del elemento 46 es:2E
+El binario del elemento 46 es:101110
+la base hexadecimal del elemento 46 es:2E
+El binario del elemento 29 es:11101
+la base hexadecimal del elemento 29 es:1D
+El binario del elemento 33 es:100001
+la base hexadecimal del elemento 33 es:21
+El binario del elemento 29 es:11101
+la base hexadecimal del elemento 29 es:1D
+El binario del elemento 26 es:11010
+la base hexadecimal del elemento 26 es:1A
+El binario del elemento 5 es:101
+la base hexadecimal del elemento 5 es:5
+El binario del elemento 36 es:100100
+la base hexadecimal del elemento 36 es:24
+El binario del elemento 12 es:1100
+la base hexadecimal del elemento 12 es:C
+El binario del elemento 45 es:101101
+la base hexadecimal del elemento 45 es:2D
+El binario del elemento 50 es:110010
+la base hexadecimal del elemento 50 es:32
+El binario del elemento 0 es:0
+la base hexadecimal del elemento 0 es:0
+El binario del elemento 6 es:110
+la base hexadecimal del elemento 6 es:6
+El total de elementos es:38
+El tiempo de ejecución fue de: 0.006789445877075195 segundos
